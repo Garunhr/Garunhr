@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Garunhr
-- 👀 I’m interested in searching developers
+- 👀 I’m interested in searching blockchain developers
 - 🌱 I’m currently learning it-recruiting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @garun_RedCode
